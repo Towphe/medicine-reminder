@@ -1,0 +1,7 @@
+# Visual Studio Code
+.vscode/
+.vs/
+
+# User-specific files
+src/package.json
+src/package-lock.json
